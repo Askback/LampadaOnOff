@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.container{
+    width: 600px;
+    background-color: white;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-items: center;
+}
+
+#lampada{
+    cursor: pointer;
+    cursor: hand;
+  }
